@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Sangwani P Zyambo
 """Reads from standard input and computes metrics.
 After every ten lines or the input of a keyboard interruption (CTRL + C),
 prints the following statistics:
